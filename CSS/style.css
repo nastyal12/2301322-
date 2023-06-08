@@ -1,0 +1,23 @@
+h5 {
+    color:brown;
+}
+h6 {
+    background-color:deeppink;
+}
+
+
+#color {
+    color:crimson;
+}
+
+#bg {
+    background-color: pink;
+}
+
+.size{
+    font-size:50px;
+}
+
+.color{
+    color:darkorange;
+}
